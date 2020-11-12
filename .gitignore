@@ -1,0 +1,6 @@
+*.OpenFOAM
+*.asv
+*.dep
+log*
+bin
+linux64GccDPOpt

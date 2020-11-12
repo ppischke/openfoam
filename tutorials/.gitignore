@@ -1,0 +1,8 @@
+*.[0-9]*
+c?[xyz]
+V
+faces
+neighbour
+owner
+points
+*Zones
